@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Ignore executables (they should be zipped)
+*.exe
+downloads/*.exe
